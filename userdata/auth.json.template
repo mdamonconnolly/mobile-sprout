@@ -1,0 +1,19 @@
+{
+    "DiscordData" : {
+        "ClientID" : "",
+        "AppID" : "",
+        "PublicKey" : "",
+        "ClientSecret" : "",
+        "Token" : ""
+    },
+
+    "TwitchData" : {
+        "ClientID" : "",
+        "ClientSecret" : ""
+
+    },
+
+    "TelegramData" : {
+
+    }
+}
