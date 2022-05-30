@@ -10,8 +10,8 @@ def log(message, level = "STANDARD"):
     elif level == "DEBUG":
         print(Fore.BLUE + message)
     elif level == "WARNING":
-        pass #print in yellow
+        print(Fore.YELLOW + message) 
     elif level == "ERROR":
-        pass #print in red
+        print(Fore.RED + message)
     elif level == "SUCCESS":
-        pass #print in green
+        print(Fore.GREEN + message)
